@@ -7,4 +7,3 @@ All code is free and open source.
 **The games are available at https://blockly.games/**
 
 **The developer's site is at https://github.com/google/blockly-games/wiki**
-# blockly-games
